@@ -7,6 +7,8 @@
     <modules>
         <module>kafka-basics</module>
         <module>kafka-producer-twitter</module>
+        <module>kafka-consumser-elasticsearch</module>
+        <module>kafka-basic</module>
     </modules>
 
     <properties>
