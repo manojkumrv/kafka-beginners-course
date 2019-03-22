@@ -9,6 +9,7 @@
         <module name="kafka-basic" />
         <module name="kafka-consumser-elasticsearch" />
         <module name="kafka-producer-twitter" />
+        <module name="kafka-streams-filter-tweets" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
